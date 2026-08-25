@@ -25,7 +25,7 @@ const products = [
         price: 1350,
         unit: "unidad",
         desc: "Relleno super abundante de dulce de leche repostero premium, baño grueso de cobertura 70% cacao.",
-        image: "imagenes/alfajor_banado_chocolate.webp"
+        image: "imagenes/alfajor_chocolate.webp"
     },
 
     {
